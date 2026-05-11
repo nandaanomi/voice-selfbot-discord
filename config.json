@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_TOKEN"
+  "guildId": "SERVER_DISCORD_ID",
+  "channelId": "VOICE_ID"
+}
