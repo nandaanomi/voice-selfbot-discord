@@ -12,9 +12,6 @@ Peringatan Penting
 
 Selfbot melanggar Term of Service Discord.
 
-Menggunakan selfbot dapat mengakibatkan akun kamu di-ban permanen tanpa bisa dipulihkan.
-
-Repository ini hanya untuk tujuan edukasi dan pembelajaran. Gunakan dengan risiko sendiri.
 
 
 
